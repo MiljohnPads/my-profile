@@ -1,0 +1,42 @@
+{
+  "data_1": [
+    { "birthday": "18 March 2003" },
+    {
+      "website": "<a target='_blank' href='https://www.facebook.com/miljohnfernandico.pador?mibextid=ZbWKwL'>https://www.facebook.com/miljohnfernandico.pador?mibextid=ZbWKwL</a>"
+    },
+    { "phone": "+63 963-713-3578" },
+    { "address": "Maccas, Tubigon, Bohol, Philippines" }
+  ],
+"data_2": [
+  { "age": 21 },
+  { "degree": "IT" },
+  { "email": "<a href='mailto:pdrmiljohnpador@gmail.com'>pdrmiljohnpador@gmail.com</a>" },
+  { "student": "Available" }
+],
+
+  "data_3": [
+    "Maccas, Tubigon, Bohol, Philippines",
+    "+63 963-713-3578",
+    "<a href='mailto:pdrmiljohnpador@gmail.com'></a>"
+  ],
+  "data_4": [
+    {
+      "title": "Information Technology",
+      "year": "2020 - 2024",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2014 - 2020",
+      "school": "SIT",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2013",
+      "school": "Tubigon East Central Elementary School",
+      "address": "Maccas, Tubigon, Bohol, Philippines"
+    }
+  ]
+}
